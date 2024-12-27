@@ -167,6 +167,26 @@ export const skills = [
   },
 ];
 
+export const experiences = [
+  {
+    id: 0,
+    img: "https://drive.google.com/file/d/1AjV6BhpzsdzZO6Hkgoh3pOFu-WPRV-27/view",
+    role: "React Developer Intern",
+    company: "Vedalytics Solutions",
+    
+    desc: "During my internship at Vedalytics Solutions, I had the opportunity to contribute to enhancing the user experience of their website. My key project involved implementing several key improvements, including a dynamic hero section that adapts to different screen sizes and user interactions, a dedicated Thank page to acknowledge user actions, a comprehensive Services page outlining the company's offerings, and a detailed Products page showcasing their innovative solutions. These additions aimed to create a more engaging, informative, and user-friendly website experience for visitors.",
+    skills: [
+      "ReactJS",
+      "Redux",
+      "NodeJs",
+      "Material UI",
+      "HTML",
+      "CSS",
+      "JavaScript",
+    ],
+   
+  },
+];
 // export const experiences = [
 //   {
 //     id: 0,
