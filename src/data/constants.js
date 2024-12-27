@@ -81,6 +81,11 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
+       {
+        name: "Go Lang",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4W4k4zseh-AKurUNiz98TiScprGtQNykdQ&s",
+      },
      
       {
         name: "MySQL",
@@ -93,6 +98,13 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
+      {
+        name: "Redis",
+        image:
+          "https://www.zdnet.com/a/img/resize/ea56feddb9aed4bc4af6b9e693ef4b40592b6f15/2020/05/11/f9afed5d-33cd-438f-ba73-31b31abba8e1/redis-logo-2.png?auto=webp&width=740",
+      },
+    
+      
     
     ],
   },
@@ -123,6 +135,11 @@ export const skills = [
         name: "JavaScript",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+      },
+       {
+        name: "Go Lang",
+        image:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4W4k4zseh-AKurUNiz98TiScprGtQNykdQ&s",
       },
     
     ],
