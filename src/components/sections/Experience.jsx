@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-//import { experiences } from "../../data/constants";
+import { experiences } from "../../data/constants";
 import { VerticalTimeline } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import ExperienceCard from "../cards/ExperienceCard";
@@ -54,7 +54,7 @@ const Experience = () => {
   return (
     <Container id="Experience">
       <Wrapper>
-        {/* <Title>Experience</Title>
+         <Title>Experience</Title>
         <Desc
           style={{
             marginBottom: "40px",
@@ -62,16 +62,16 @@ const Experience = () => {
         >
           My work experience as a software engineer and working on different
           companies and projects.
-        </Desc> */}
+        </Desc> 
 
-        {/* <VerticalTimeline>
+        <VerticalTimeline>
           {experiences.map((experience, index) => (
             <ExperienceCard
               key={`experience-${index}`}
               experience={experience}
             />
           ))}
-        </VerticalTimeline> */}
+        </VerticalTimeline> 
       </Wrapper>
     </Container>
   );
