@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import vedalogo from "../../images/vedalogo.jpg";
 import { VerticalTimelineElement } from "react-vertical-timeline-component";
 
 const Top = styled.div`
@@ -103,7 +104,7 @@ const ExperienceCard = ({ experience }) => {
           height="100%"
           alt={experience.school}
           style={{ borderRadius: "50%", objectFit: "cover" }}
-          src={experience.img}
+          src={vedalogo}
         />
       }
       contentStyle={{
@@ -124,7 +125,7 @@ const ExperienceCard = ({ experience }) => {
       date={experience.date}
     >
       <Top>
-        <Image src={experience.img} />
+        <Image src={vedalogo} />
         <Body>
           <Role>{experience.role}</Role>
           <Company>{experience.company}</Company>
