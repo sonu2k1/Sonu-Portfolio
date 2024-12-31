@@ -356,8 +356,8 @@ export const projects = [
       "MongoDB",
     ],
     category: "web app",
-    // github: "https://github.com/rishavchanda/DecisionHub",
-    // webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/sonu2k1/Fullstack-Stock-Trading-Platform",
+     webapp: "https://fullstack-stock-trading-platform-6nsz.vercel.app/",
   },
   {
     id: 9,
@@ -378,7 +378,7 @@ export const projects = [
       "MVC FrameWork",
     ],
     category: "web app",
-    // github: "https://github.com/rishavchanda/Trackify",
+     github: "https://github.com/sonu2k1/Wanderlust",
     // webapp: "https://trackify-management.netlify.app/",
   },
   {
@@ -389,8 +389,8 @@ export const projects = [
     image:
       "Simon.png",
     tags: ["JavaScript", "HTML","CSS"],
-    category: "web app",
-    // github: "https://github.com/rishavchanda/Podstream",
+    category: "game",
+    github: "https://github.com/sonu2k1/Simon-Game",
     // webapp: "https://podstream.netlify.app/",
    
   },
@@ -407,7 +407,8 @@ export const projects = [
       "HTML",
       "CSS",
     ],
-    category: "web app",
+    category: "game",
+   github: "https://github.com/sonu2k1/tictactoeusingReactJs",
    
   },
   {
@@ -420,6 +421,8 @@ export const projects = [
       "Weather.png",
     tags: ["React","JavaScript","HTML","CSS"],
     category: "web app",
+    github: "https://github.com/sonu2k1/React-Weather-App",
+    webapp: "https://sonu2k1.github.io/React-Weather-App/",
     
    
   },
