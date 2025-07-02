@@ -104,7 +104,7 @@ const ExperienceCard = ({ experience }) => {
           height="100%"
           alt={experience.school}
           style={{ borderRadius: "50%", objectFit: "cover" }}
-          src={vedalogo}
+          src={experience.img}
         />
       }
       contentStyle={{
@@ -125,7 +125,7 @@ const ExperienceCard = ({ experience }) => {
       date={experience.date}
     >
       <Top>
-        <Image src={vedalogo} />
+        <Image src={experience.img} />
         <Body>
           <Role>{experience.role}</Role>
           <Company>{experience.company}</Company>
