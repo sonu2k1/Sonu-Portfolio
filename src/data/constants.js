@@ -1,3 +1,4 @@
+import vedalogo from "../images/vedalogo.jpg";
 export const Bio = {
   name: "Sonu Singh",
   roles: [
@@ -199,7 +200,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://drive.google.com/file/d/1AjV6BhpzsdzZO6Hkgoh3pOFu-WPRV-27/view",
+    img: vedalogo,
     role: "React Developer Intern",
     company: "Vedalytics Solutions",
     
