@@ -4,7 +4,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 
 
-## Some Images:
+## Some Images:-
 <img width="450px;" src="https://github.com/user-attachments/assets/59a9593f-e29e-4aeb-a646-5ff255554c12"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
 
