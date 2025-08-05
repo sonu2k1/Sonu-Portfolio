@@ -38,7 +38,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 - GitHub Pages: A platform for hosting and deploying web applications.
 
 ## Installation
-To run this portfolio locally, follow these steps:
+To run this portfolio locally, follow these steps:-
 
 1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
 2. Navigate to the project directory: `cd rishav-chanda-portfolio`
